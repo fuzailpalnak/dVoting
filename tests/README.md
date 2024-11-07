@@ -1,5 +1,3 @@
-
-
 # Dynamic Voting dApp on Sway
 
 A decentralized voting application built on the Sway language, designed to allow users to vote on dynamically managed options. Each vote counts toward a specified option ID, and users are restricted to voting only once. The dApp leverages Fuel's blockchain platform, ensuring transparency, immutability, and security of the voting process.
